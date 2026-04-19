@@ -1,28 +1,51 @@
 # Rust Backend Application
-This codebase was created to demonstrate a backend application built with Rust + Diesel including CRUD operations, routing, and more.
 
-## Requirements
+This codebase was created to demonstrate a backend application built with **Rust + Diesel**, including CRUD operations, routing, and more.
+
+---
+
+## 👤 Author
+
+- **Name:** Muhammad Ashba  
+- **Email:** ashba.work@gmail.com  
+- **Phone:** +92 3155210156  
+
+---
+
+## 💼 Experience
+
+Rust Backend Developer with hands-on experience in building scalable backend systems using Rust.  
+
+Key expertise includes:
+- Developing RESTful APIs using Rust
+- Working with Actix Web / Rocket frameworks
+- Database integration using Diesel ORM
+- Implementing CRUD operations and authentication systems
+- Designing performance-oriented backend architectures
+- Writing clean, maintainable, and production-ready code
+
+---
+
+## 📦 Requirements
 
 - [Git](https://git-scm.com/)
 - [Rustup](https://rustup.rs/)
 - [Cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
 
+---
 
-## Getting started
+## 🚀 Getting Started
 
-### Install
-Please check the official rust installation guide before you start. [Official Documentation](https://www.rust-lang.org/tools/install) Also make sure you have installed a rust latest version.
+### Install Dependencies
 
+Please follow the official Rust installation guide before starting:  
+https://www.rust-lang.org/tools/install  
 
-```
-### Running
+Make sure you have the latest stable version of Rust installed.
+
+---
+
+### ▶️ Running the Project
+
 ```bash
-$ cargo run
-```
-
-### Build
-```bash
-$ cargo build
-```
-
-Then start querying at `http://localhost:8000/`
+cargo run
