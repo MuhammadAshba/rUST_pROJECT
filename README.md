@@ -8,7 +8,7 @@ This codebase was created to demonstrate a backend application built with **Rust
 
 - **Name:** Muhammad Ashba  
 - **Email:** ashba.work@gmail.com  
-- **Phone:** +92 3155210156  
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-ashba-90852a404/  
 
 ---
 
